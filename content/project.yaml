@@ -1,0 +1,10 @@
+%YAML 1.1
+---
+
+project:
+    defination: "Country Disaster Notification and AI Process"
+    topic: "Agent - AI - AGI - Knowledge Retrieval - GPT"
+    focus: "Detection - LLM - QA"
+
+apikey:
+    OPENAI_API_KEY: "<YOUR_OPENAI_API_KEY_HERE>"
